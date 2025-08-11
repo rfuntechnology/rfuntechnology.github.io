@@ -44,7 +44,7 @@ google.com, pub-8303699611610652, DIRECT, f08c47fec0942fa0
 #admob end
 
 #pangle start
-pangleglobal.com, 5029947, DIRECT
+pangleglobal.com, 5031806, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 #pangle end
 
