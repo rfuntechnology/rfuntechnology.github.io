@@ -1734,6 +1734,7 @@ xandr.com, 17724, RESELLER
 themediagrid.com, MRPYL1, RESELLER, 35d5010d7789b49d
 risecodes.com, 669e6c7df95c1e00017cf2c5, RESELLER
 richaudience.com, aGixKCw4qJ, RESELLER
+risecodes.com, 6a32507234030900017ca985, RESELLER
 firstimpression.io,5003,reseller
 pubmatic.com, 168196, RESELLER, 5d62403b186f2ace
 indexexchange.com, 216592, RESELLER, 50b1c356f2c5c8fc
